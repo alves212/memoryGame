@@ -39,8 +39,7 @@ body {
 }
 .card_back {
   color: #101c2c;
-  background-color: rgb(125, 100, 148);
-  font-size: 2em;
+  background-color: rgb(65, 52, 78);
 }
 #gameOver {
   position: absolute;
