@@ -39,7 +39,7 @@ body {
 }
 .card_back {
   color: #101c2c;
-  background-color: green;
+  background-color: yellow;
   font-size: 2em;
 }
 #gameOver {
